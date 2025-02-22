@@ -10,11 +10,11 @@ This git page stores all the assets for this project within a resource pack, whi
 ### Installing git--
 You will need to install git to be able to install and contribute to the resource pack:
 
-### Download Git from its official website,
+### Download Git from its official website--
 Run the installer.
 
 
-##Importing the resource pack--
+## Importing the resource pack--
 Once you have git installed, navigate to your resource packs folder in the following directory:
 ```
 %appdata%\.minecraft\resourcepacks\
