@@ -1,0 +1,16 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "cases": [
+            {
+                "model": { "type": "minecraft:model", "model": "deltarune:item/sprite/mane_ax" },
+                "when": [ "gui", "ground", "fixed" ]
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "deltarune:item/weapon/mane_ax"
+        },
+        "property": "minecraft:display_context"
+    }
+}

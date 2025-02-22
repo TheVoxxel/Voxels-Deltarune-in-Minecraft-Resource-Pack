@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "up": "minecraft:block/gray_glazed_terracotta",
+        "down": "minecraft:block/cliff_side",
+        "east": "minecraft:block/cliff_side",
+        "west": "minecraft:block/cliff_side",
+        "north": "minecraft:block/cliff_side",
+        "south": "minecraft:block/cliff_side",
+        "particle": "minecraft:block/light_blue_terracotta"
+    }
+}

@@ -1,0 +1,38 @@
+{
+	"susie": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/items/blueprint/susie/torso.json",
+			"assets/animated_java/items/blueprint/susie/head.json",
+			"assets/animated_java/items/blueprint/susie/hair.json",
+			"assets/animated_java/items/blueprint/susie/leftarm.json",
+			"assets/animated_java/items/blueprint/susie/mane_ax.json",
+			"assets/animated_java/items/blueprint/susie/rightarm.json",
+			"assets/animated_java/items/blueprint/susie/leftleg.json",
+			"assets/animated_java/items/blueprint/susie/rightleg.json",
+			"assets/animated_java/models/blueprint/susie/torso.json",
+			"assets/animated_java/models/blueprint/susie/head.json",
+			"assets/animated_java/models/blueprint/susie/hair.json",
+			"assets/animated_java/models/blueprint/susie/leftarm.json",
+			"assets/animated_java/models/blueprint/susie/mane_ax.json",
+			"assets/animated_java/models/blueprint/susie/rightarm.json",
+			"assets/animated_java/models/blueprint/susie/leftleg.json",
+			"assets/animated_java/models/blueprint/susie/rightleg.json",
+			"assets/animated_java/models/blueprint/susie/susie_smile/head.json",
+			"assets/animated_java/models/blueprint/susie/no_axe/mane_ax.json"
+		]
+	},
+	"wobbly": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/items/blueprint/wobbly/base1.json",
+			"assets/animated_java/items/blueprint/wobbly/stem.json",
+			"assets/animated_java/models/blueprint/wobbly/base1.json",
+			"assets/animated_java/models/blueprint/wobbly/stem.json",
+			"assets/animated_java/models/blueprint/wobbly/wobbly/stem.json",
+			"assets/animated_java/models/blueprint/wobbly/wobbly/base1.json",
+			"assets/animated_java/models/blueprint/wobbly/evil_wobbly/stem.json",
+			"assets/animated_java/models/blueprint/wobbly/evil_wobbly/base1.json"
+		]
+	}
+}

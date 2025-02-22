@@ -1,0 +1,13 @@
+{
+    "parent": "deltarune:projectile/proj_overworld",
+    "textures": { 
+        "sprite": "deltarune:item/projectile/proj_diamond" 
+    },
+    "display": {
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -10, 2],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

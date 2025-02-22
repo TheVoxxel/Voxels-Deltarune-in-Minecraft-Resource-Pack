@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/textbox_blank.png",
+            "ascent": 25,
+            "height": 80,
+            "chars": ["\u0030"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/susie/sus_grin.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["\u0a01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/susie/sus_frown.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["\u0a02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/susie/sus_smirk.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["\u0a03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/susie/sus_scary_eyeless.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["\u0a04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/textboxes/susie/sus_squint.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["\u0a05"]
+        }
+    ]
+}

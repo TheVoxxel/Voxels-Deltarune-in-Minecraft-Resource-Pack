@@ -1,0 +1,6 @@
+{
+    "parent": "deltarune:item/weapon/weapon32x",
+    "textures": { 
+        "sprite": "deltarune:item/weapon/mane_ax" 
+    }
+}

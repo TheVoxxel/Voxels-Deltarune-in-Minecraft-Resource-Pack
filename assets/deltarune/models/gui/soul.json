@@ -1,0 +1,17 @@
+{
+    "parent": "deltarune:item/sprite/sprite",
+    "textures": { 
+        "sprite": "deltarune:item/gui/soul" 
+    },
+    "display": {
+		"head": {
+			"scale": [2.5, 2.5, 2.5],
+            "translation": [0, -18, 0]
+		},
+        "fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -23.75],
+			"scale": [3, 3, 3]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "cases": [
+            {
+                "model": { "type": "minecraft:model", "model": "deltarune:item/sprite/red_scarf" },
+                "when": [ "gui", "firstperson_lefthand", "firstperson_righthand", "thirdperson_lefthand", "thirdperson_righthand", "ground", "fixed" ]
+            }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "deltarune:item/weapon/red_scarf"
+      },
+      "property": "minecraft:display_context"
+    }
+}

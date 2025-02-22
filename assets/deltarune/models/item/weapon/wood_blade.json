@@ -1,0 +1,6 @@
+{
+    "parent": "deltarune:item/weapon/weapon",
+    "textures": { 
+        "sprite": "deltarune:item/weapon/wood_blade" 
+    }
+}

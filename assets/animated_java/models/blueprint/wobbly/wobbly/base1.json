@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/wobbly/base1",
+	"textures": {
+		"0": "deltarune:item/misc/wobblything",
+		"1": "deltarune:item/misc/blank"
+	}
+}

@@ -1,0 +1,9 @@
+{	
+	"parent": "deltarune:item/weapon/shield",
+	"display": {
+		"firstperson_righthand": { "translation": [-1.5, 1, 1],	"rotation": [5, 0, 5] },
+		"firstperson_lefthand":  { "translation": [-1.5, 1, 1],	"rotation": [5, 0, 5] },
+		"thirdperson_righthand": { "rotation": [30, -20, 0], "translation": [1, 2, 1] },
+		"thirdperson_lefthand": { "rotation": [30, -20, 0], "translation": [1, 2, 1] }
+	}
+}

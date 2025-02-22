@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"base": "deltarune:item/weapon/red_scarf"
+	},
+	"elements": [
+		{
+			"from": [3.49, -0.01, 3.49],
+			"to": [12.51, 5.01, 12.51],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 3, 3.5]},
+			"faces": {
+				"north": {"uv": [0, 9, 9, 14], "texture": "#base"},
+				"east": {"uv": [0, 9, 9, 14], "texture": "#base"},
+				"south": {"uv": [0, 9, 9, 14], "texture": "#base"},
+				"west": {"uv": [0, 9, 9, 14], "texture": "#base"},
+				"up": {"uv": [9, 9, 0, 0], "texture": "#base"},
+				"down": {"uv": [9, 0, 0, 9], "texture": "#base"}
+			}
+		},
+		{
+			"from": [9.49, -4.66, 3.99],
+			"to": [13.51, -0.64, 4.01],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.5, -2.65, 4]},
+			"faces": {
+				"north": {"uv": [9, 0, 13, 4], "texture": "#base"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#base"},
+				"south": {"uv": [13, 0, 9, 4], "texture": "#base"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#base"},
+				"up": {"uv": [4, 0, 0, 0], "texture": "#base"},
+				"down": {"uv": [4, 0, 0, 0], "texture": "#base"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

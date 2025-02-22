@@ -1,0 +1,32 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": "wobbly",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/wobbly/wobbly/stem"
+				}
+			},
+			{
+				"when": "evil_wobbly",
+				"model": {
+					"type": "minecraft:model",
+					"model": "animated_java:blueprint/wobbly/evil_wobbly/stem"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "animated_java:blueprint/wobbly/stem"
+		},
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": [1, 1, 1]
+			}
+		]
+	}
+}

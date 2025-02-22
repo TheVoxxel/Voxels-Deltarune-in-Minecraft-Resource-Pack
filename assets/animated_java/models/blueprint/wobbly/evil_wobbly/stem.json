@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/wobbly/stem",
+	"textures": {
+		"2": "deltarune:item/misc/evilwobbly",
+		"3": "deltarune:item/misc/redoutline"
+	}
+}

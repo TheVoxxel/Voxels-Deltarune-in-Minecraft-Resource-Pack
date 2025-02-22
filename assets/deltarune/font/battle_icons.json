@@ -1,0 +1,88 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/fight.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/act.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/item.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/spare.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0044"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/defend.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0045"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/magic.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0046"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/fight_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0051"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/act_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0052"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/item_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0053"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/spare_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0054"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/defend_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0055"]
+        },
+        {
+            "type": "bitmap",
+            "file": "deltarune:font/battle_icons/magic_sel.png",
+            "ascent": 0,
+            "height": 25,
+            "chars": ["\u0056"]
+        }
+    ]
+}

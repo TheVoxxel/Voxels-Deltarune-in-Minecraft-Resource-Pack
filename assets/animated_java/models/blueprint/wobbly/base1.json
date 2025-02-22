@@ -1,0 +1,84 @@
+{
+	"textures": {
+		"0": "deltarune:item/misc/evilwobbly",
+		"1": "deltarune:item/misc/redoutline",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5, 8, 5],
+			"to": [11, 10, 11],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [7, 8, 7]
+			},
+			"faces": {
+				"north": {
+					"uv": [6, 8, 12, 6],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [12, 8, 6, 6],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 8, 12, 6],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [12, 8, 6, 6],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [12, 14, 6, 8],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [12, 8, 6, 14],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [11.5, 10.5, 11.5],
+			"to": [4.5, 8, 4.5],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [27, 47, 27]
+			},
+			"faces": {
+				"north": {
+					"uv": [9, 0, 12, 1],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [1, 9, 4, 10],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [9, 1, 12, 2],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [9, 2, 12, 3],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [3, 3, 0, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [3, 3, 0, 6],
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

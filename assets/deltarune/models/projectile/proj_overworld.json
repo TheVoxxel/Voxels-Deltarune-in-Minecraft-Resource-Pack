@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0" : "#sprite", "particle": "#sprite" },
+	"display": {
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

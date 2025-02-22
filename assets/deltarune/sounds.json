@@ -1,0 +1,13 @@
+{
+    "music.rude_buster": { "category": "master", "sounds": [ "deltarune:music/rudebuster_nb" ] },
+    "music.cliffs": { "category": "master", "sounds": [ "deltarune:music/cliffs" ] },
+
+    "music.the_legend": { "category": "master", "sounds": [ "deltarune:music/legend" ] },
+    "music.lancer": { "category": "master", "sounds": [ "deltarune:music/lancer_nb" ] },
+    "music.hopes_and_dreams": { "category": "master", "sounds": [ "deltarune:music/field_of_hopes" ] },
+    "music.chaos_king": { "category": "master", "sounds": [ "deltarune:music/kingboss" ] },
+
+    "effects.wobbler": { "category": "master", "sounds": [ "deltarune:effects/wobbler" ] },
+
+    "talk.susie": { "category": "master", "sounds": [ "deltarune:talk/susie" ] }
+}

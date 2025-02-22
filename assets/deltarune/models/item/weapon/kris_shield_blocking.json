@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "deltarune:item/weapon/shield_blocking",
+	"textures": { "sprite": "deltarune:item/weapon/kris_shield" },
+	"elements": [
+		{
+			"from": [4, 0, 7],
+			"to": [11, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 7]},
+			"faces": {
+				"north": {"uv": [1.3913, 11.07692, 6.26087, 16], "texture": "#sprite"},
+				"east": {"uv": [13.91304, 11.07692, 14.6087, 16], "texture": "#sprite"},
+				"south": {"uv": [9.73913, 11.07692, 14.6087, 16], "texture": "#sprite"},
+				"west": {"uv": [9.73913, 11.07692, 10.43478, 16], "texture": "#sprite"},
+				"up": {"uv": [14.6087, 12.30769, 9.73913, 11.07692], "texture": "#sprite"},
+				"down": {"uv": [14.6087, 14.76923, 9.73913, 16], "texture": "#sprite"}
+			}
+		},
+		{
+			"from": [2, 4, 7],
+			"to": [13, 13, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 7.65217, 11.07692], "texture": "#sprite"},
+				"east": {"uv": [0, 0, 0.69565, 11.07692], "texture": "#sprite"},
+				"south": {"uv": [8.34783, 0, 16, 11.07692], "texture": "#sprite"},
+				"west": {"uv": [6.95652, 0, 7.65217, 11.07692], "texture": "#sprite"},
+				"up": {"uv": [7.65217, 1.23077, 0, 0], "texture": "#sprite"},
+				"down": {"uv": [7.65217, 9.84615, 0, 11.07692], "texture": "#sprite"}
+			}
+		}
+	]
+}

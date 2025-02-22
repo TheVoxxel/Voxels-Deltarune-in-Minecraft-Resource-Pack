@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "up": "minecraft:block/waterfall_top_mid",
+        "north": "minecraft:block/waterfall_mid"
+    }
+}

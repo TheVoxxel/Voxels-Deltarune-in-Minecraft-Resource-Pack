@@ -1,0 +1,6 @@
+{
+    "parent": "deltarune:item/sprite/sprite",
+    "textures": { 
+        "sprite": "deltarune:item/sprite/red_scarf" 
+    }
+}

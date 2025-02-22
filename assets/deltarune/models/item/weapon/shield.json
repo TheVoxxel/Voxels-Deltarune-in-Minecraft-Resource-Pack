@@ -1,0 +1,14 @@
+{
+	"textures": { "particle": "#sprite" },
+	
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": { "rotation": [0, -90, 0], "translation": [2.5, 0, 3.25] },
+		"thirdperson_lefthand":  { "rotation": [0, -90, 0], "translation": [2.5, 0, 3.25] },
+		"firstperson_righthand": { "translation": [1.5, -1, 0] },
+		"firstperson_lefthand":  { "translation": [1.5, -1, 0] },
+		"ground": { "rotation": [ 20,   0,  0], "translation": [  0,    3, 0], "scale": [0.5, 0.5, 0.5] },
+		"gui": { "rotation": [15, 145, 0], "translation": [-0.25, 1.5, 0] },
+		"fixed":  { "translation": [0, 2, 0] }
+	}
+}
