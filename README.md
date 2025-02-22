@@ -26,7 +26,7 @@ git clone https://github.com/TheVoxxel/Voxels-Deltarune-in-Minecraft-Resource-Pa
 This should install the resource pack, and it should be visible in-game afterwards.
 
 
-##Updating the resource pack
+## Updating the resource pack
 After installing the resource pack, you may need to occasionally update it when changes are made.
 
 First, navigate to your resource pack folder, which should be located in the following directory:
