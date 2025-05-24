@@ -1,0 +1,13 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "minecraft:item/light_gray_dye"
+		},
+		"cases": [
+		{"when": "evilwobbly","model": {"type": "minecraft:model","model": "deltarune:entity/misc/evilwobbly"}}
+	    ]
+	}
+}

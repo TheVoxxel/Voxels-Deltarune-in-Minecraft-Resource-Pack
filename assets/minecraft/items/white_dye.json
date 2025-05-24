@@ -1,0 +1,16 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/white_dye"
+        },
+        "cases": [
+            {"when": "p.wobbly","model": {"type": "model","model": "deltarune:projectile/proj_diamond"}},
+            {"when": "p.fireball","model": {"type": "model","model": "deltarune:projectile/proj_fireball"}},
+            {"when": "p.jev.horse","model": {"type": "model","model": "deltarune:projectile/proj_carouselhorse"}},
+            {"when": "p.smalldiamond","model": {"type": "model","model": "deltarune:projectile/proj_smalldiamond"}}
+        ]
+    }
+}

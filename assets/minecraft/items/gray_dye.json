@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "minecraft:item/gray_dye"
+		},
+		"cases": [
+		{
+		"when": "clock",
+			"model": {
+				"type": "minecraft:model",
+                "model": "deltarune:decor/clock"
+		    }
+        }
+	    ]
+	}
+}
