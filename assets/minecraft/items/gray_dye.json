@@ -13,6 +13,20 @@
 				"type": "minecraft:model",
                 "model": "deltarune:decor/clock"
 		    }
+        },
+		{
+		"when": "torch",
+			"model": {
+				"type": "minecraft:model",
+                "model": "deltarune:decor/castle_torch"
+		    }
+        },
+		{
+		"when": "castle_door",
+			"model": {
+				"type": "minecraft:model",
+                "model": "deltarune:decor/castle_door"
+		    }
         }
 	    ]
 	}
