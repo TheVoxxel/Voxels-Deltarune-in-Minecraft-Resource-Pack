@@ -1,13 +1,12 @@
 {
-    "music.rude_buster": { "category": "master", "sounds": [ "deltarune:music/rude_buster" ] },
-    "music.cliffs": { "category": "master", "sounds": [ "deltarune:music/cliffs" ] },
+    "music.rude_buster": { "sounds": [ "deltarune:music/rude_buster" ] },
+    "music.cliffs": { "sounds": [ "deltarune:music/cliffs" ] },
+    "music.vs_lancer": { "sounds": [ "deltarune:music/vs_lancer" ] },
+    "music.lancer": { "sounds": [ "deltarune:music/lancer" ] },
+    "music.the_chase": { "sounds": [ "deltarune:music/the_chase" ] },
+    "music.another_him": { "sounds": [ "deltarune:music/another_him" ] },
 
-    "music.the_legend": { "category": "master", "sounds": [ "deltarune:music/legend" ] },
-    "music.lancer": { "category": "master", "sounds": [ "deltarune:music/lancer" ] },
-    "music.hopes_and_dreams": { "category": "master", "sounds": [ "deltarune:music/field_of_hopes" ] },
-    "music.chaos_king": { "category": "master", "sounds": [ "deltarune:music/kingboss" ] },
+    "effects.wobbler": { "sounds": [ "deltarune:effects/wobbler" ] },
 
-    "effects.wobbler": { "category": "master", "sounds": [ "deltarune:effects/wobbler" ] },
-
-    "talk.susie": { "category": "master", "sounds": [ "deltarune:talk/susie" ] }
+    "talk.susie": { "sounds": [ "deltarune:talk/susie" ] }
 }
