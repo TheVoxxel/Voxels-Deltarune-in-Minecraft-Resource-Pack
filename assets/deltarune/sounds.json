@@ -5,6 +5,7 @@
     "music.lancer": { "sounds": [ "deltarune:music/lancer" ] },
     "music.the_chase": { "sounds": [ "deltarune:music/the_chase" ] },
     "music.another_him": { "sounds": [ "deltarune:music/another_him" ] },
+    "music.the_legend": { "sounds": [ "deltarune:music/the_legend" ] },
 
     "effects.wobbler": { "sounds": [ "deltarune:effects/wobbler" ] },
 
