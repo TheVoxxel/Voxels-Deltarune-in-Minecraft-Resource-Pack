@@ -319,6 +319,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, 50.75, 0],
+			"scale": [4, 4, 4]
+		}
+	},
 	"groups": [
 		{
 			"name": "susie",
