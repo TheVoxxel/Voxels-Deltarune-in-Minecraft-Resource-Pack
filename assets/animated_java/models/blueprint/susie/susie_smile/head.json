@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:blueprint/susie/head",
-	"textures": {
-		"0": "deltarune:item/character/susie/susie_face_smile"
-	}
-}

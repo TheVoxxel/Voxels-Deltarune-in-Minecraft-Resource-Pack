@@ -6,6 +6,7 @@
     "music.the_chase": { "sounds": [ "deltarune:music/the_chase" ] },
     "music.another_him": { "sounds": [ "deltarune:music/another_him" ] },
     "music.the_legend": { "sounds": [ "deltarune:music/the_legend" ] },
+    "music.the_legend_slowed": { "sounds": [ "deltarune:music/the_legend_slowed" ] },
 
     "effects.wobbler": { "sounds": [ "deltarune:effects/wobbler" ] },
 

@@ -1,25 +1,9 @@
 {
 	"model": {
-		"type": "minecraft:select",
-		"property": "minecraft:custom_model_data",
-		"cases": [
-			{
-				"when": "susie_smile",
-				"model": {
-					"type": "minecraft:model",
-					"model": "animated_java:blueprint/susie/susie_smile/head"
-				}
-			}
-		],
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "animated_java:blueprint/susie/head"
-		},
+		"type": "minecraft:model",
+		"model": "animated_java:blueprint/susie/head",
 		"tints": [
-			{
-				"type": "minecraft:dye",
-				"default": [1, 1, 1]
-			}
+			{"type": "minecraft:dye", "default": [1, 1, 1]}
 		]
 	}
 }

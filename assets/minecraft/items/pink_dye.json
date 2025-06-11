@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/pink_dye"
+        },
+        "cases": [
+            {"when": "susie","model": {"type": "model","model": "deltarune:entity/temporary/susie"}}
+        ]
+    }
+}

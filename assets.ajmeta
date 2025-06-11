@@ -1,38 +1,60 @@
 {
-	"susie": {
-		"files": [
-			"assets/animated_java/models/empty.json",
-			"assets/animated_java/items/blueprint/susie/torso.json",
-			"assets/animated_java/items/blueprint/susie/head.json",
-			"assets/animated_java/items/blueprint/susie/hair.json",
-			"assets/animated_java/items/blueprint/susie/leftarm.json",
-			"assets/animated_java/items/blueprint/susie/mane_ax.json",
-			"assets/animated_java/items/blueprint/susie/rightarm.json",
-			"assets/animated_java/items/blueprint/susie/leftleg.json",
-			"assets/animated_java/items/blueprint/susie/rightleg.json",
-			"assets/animated_java/models/blueprint/susie/torso.json",
-			"assets/animated_java/models/blueprint/susie/head.json",
-			"assets/animated_java/models/blueprint/susie/hair.json",
-			"assets/animated_java/models/blueprint/susie/leftarm.json",
-			"assets/animated_java/models/blueprint/susie/mane_ax.json",
-			"assets/animated_java/models/blueprint/susie/rightarm.json",
-			"assets/animated_java/models/blueprint/susie/leftleg.json",
-			"assets/animated_java/models/blueprint/susie/rightleg.json",
-			"assets/animated_java/models/blueprint/susie/susie_smile/head.json",
-			"assets/animated_java/models/blueprint/susie/no_axe/mane_ax.json"
-		]
-	},
-	"wobbly": {
-		"files": [
-			"assets/animated_java/models/empty.json",
-			"assets/animated_java/items/blueprint/wobbly/base1.json",
-			"assets/animated_java/items/blueprint/wobbly/stem.json",
-			"assets/animated_java/models/blueprint/wobbly/base1.json",
-			"assets/animated_java/models/blueprint/wobbly/stem.json",
-			"assets/animated_java/models/blueprint/wobbly/wobbly/stem.json",
-			"assets/animated_java/models/blueprint/wobbly/wobbly/base1.json",
-			"assets/animated_java/models/blueprint/wobbly/evil_wobbly/stem.json",
-			"assets/animated_java/models/blueprint/wobbly/evil_wobbly/base1.json"
-		]
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"dark_fountain": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/dark_fountain/clump.json",
+				"assets/animated_java/items/blueprint/dark_fountain/main.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/dark_fountain/clump.json",
+				"assets/animated_java/models/blueprint/dark_fountain/clump_hide/clump.json",
+				"assets/animated_java/models/blueprint/dark_fountain/main.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/dark_fountain/texture.png"
+			]
+		},
+		"susie": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/susie/blur1.json",
+				"assets/animated_java/items/blueprint/susie/blur2.json",
+				"assets/animated_java/items/blueprint/susie/hair.json",
+				"assets/animated_java/items/blueprint/susie/head.json",
+				"assets/animated_java/items/blueprint/susie/leftarm.json",
+				"assets/animated_java/items/blueprint/susie/leftleg.json",
+				"assets/animated_java/items/blueprint/susie/mane_ax.json",
+				"assets/animated_java/items/blueprint/susie/rightarm.json",
+				"assets/animated_java/items/blueprint/susie/rightleg.json",
+				"assets/animated_java/items/blueprint/susie/torso.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/susie/blur1.json",
+				"assets/animated_java/models/blueprint/susie/blur2.json",
+				"assets/animated_java/models/blueprint/susie/hair.json",
+				"assets/animated_java/models/blueprint/susie/head.json",
+				"assets/animated_java/models/blueprint/susie/leftarm.json",
+				"assets/animated_java/models/blueprint/susie/leftleg.json",
+				"assets/animated_java/models/blueprint/susie/mane_ax.json",
+				"assets/animated_java/models/blueprint/susie/rightarm.json",
+				"assets/animated_java/models/blueprint/susie/rightleg.json",
+				"assets/animated_java/models/blueprint/susie/torso.json",
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/textures/blueprint/susie/dw_susie.png",
+				"assets/animated_java/textures/blueprint/susie/dw_susie_face01.png"
+			]
+		},
+		"wobbly": {
+			"versionedFiles": [
+				"assets/animated_java/models/empty.json",
+				"assets/animated_java/items/blueprint/wobbly/base1.json",
+				"assets/animated_java/items/blueprint/wobbly/stem.json",
+				"assets/animated_java/models/blueprint/wobbly/base1.json",
+				"assets/animated_java/models/blueprint/wobbly/stem.json",
+				"assets/animated_java/models/blueprint/wobbly/wobbly/stem.json",
+				"assets/animated_java/models/blueprint/wobbly/wobbly/base1.json",
+				"assets/animated_java/models/blueprint/wobbly/evil_wobbly/stem.json",
+				"assets/animated_java/models/blueprint/wobbly/evil_wobbly/base1.json"
+			]
+		}
 	}
 }

@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"7": "deltarune:files/characters/susie/trail2",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [23.6, 8, -6.4],
+			"to": [23.6, 32, 17.6],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [24.2, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 5],
+					"texture": "#7"
+				},
+				"east": {
+					"uv": [0, 0, 5, 5],
+					"texture": "#7"
+				},
+				"south": {
+					"uv": [0, 0, 0, 5],
+					"texture": "#7"
+				},
+				"west": {
+					"uv": [0, 5, 5, 10],
+					"texture": "#7"
+				},
+				"up": {
+					"uv": [0, 5, 0, 0],
+					"texture": "#7"
+				},
+				"down": {
+					"uv": [0, 0, 0, 5],
+					"texture": "#7"
+				}
+			}
+		}
+	]
+}
