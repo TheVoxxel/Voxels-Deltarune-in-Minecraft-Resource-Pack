@@ -7,27 +7,13 @@
 			"model": "minecraft:item/gray_dye"
 		},
 		"cases": [
-		{
-		"when": "clock",
-			"model": {
-				"type": "minecraft:model",
-                "model": "deltarune:decor/clock"
-		    }
-        },
-		{
-		"when": "torch",
-			"model": {
-				"type": "minecraft:model",
-                "model": "deltarune:decor/castle_torch"
-		    }
-        },
-		{
-		"when": "castle_door",
-			"model": {
-				"type": "minecraft:model",
-                "model": "deltarune:decor/castle_door"
-		    }
-        }
+		{"when": "clock","model": {"type": "minecraft:model","model": "deltarune:decor/clock"}},
+		{"when": "torch","model": {"type": "minecraft:model","model": "deltarune:decor/castle_torch"}},
+		{"when": "castle_door","model": {"type": "minecraft:model","model": "deltarune:decor/castle_door"}},
+		{"when":"sign_weapon","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_weap"}},
+		{"when":"sign_inn","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_inn"}},
+		{"when":"sign_item","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_items"}},
+		{"when":"sign_idk","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_mystery"}}
 	    ]
 	}
 }

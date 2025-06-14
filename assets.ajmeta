@@ -1,6 +1,21 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"dark": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/dark/bubble.json",
+				"assets/animated_java/items/blueprint/dark/bubble2.json",
+				"assets/animated_java/items/blueprint/dark/fountain.json",
+				"assets/animated_java/items/blueprint/dark/root.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/dark/bubble.json",
+				"assets/animated_java/models/blueprint/dark/bubble2.json",
+				"assets/animated_java/models/blueprint/dark/fountain.json",
+				"assets/animated_java/models/blueprint/dark/root.json",
+				"assets/animated_java/models/empty.json"
+			]
+		},
 		"dark_fountain": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [

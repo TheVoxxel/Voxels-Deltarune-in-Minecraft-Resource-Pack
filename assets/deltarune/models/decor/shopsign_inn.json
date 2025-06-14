@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"base": "deltarune:item/decor/inn_shop_sign"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 8],
+			"to": [16, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#base"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#base"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#base"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#base"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#base"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [15, -31.75, -39],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [6.5, -15, -0.25],
+			"scale": [3, 3, 3]
+		}
+	}
+}
