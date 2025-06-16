@@ -1,0 +1,13 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "minecraft:item/blue_dye"
+		},
+		"cases": [
+		{"when": "sign01","model": {"type": "minecraft:model","model": "deltarune:decor/sign_field"}}
+	    ]
+	}
+}

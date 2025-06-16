@@ -13,7 +13,8 @@
 		{"when":"sign_weapon","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_weap"}},
 		{"when":"sign_inn","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_inn"}},
 		{"when":"sign_item","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_items"}},
-		{"when":"sign_idk","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_mystery"}}
+		{"when":"sign_idk","model":{"type":"minecraft:model","model":"deltarune:decor/shopsign_mystery"}},
+		{"when":"topchef_table","model":{"type":"minecraft:model","model":"deltarune:decor/topchef_table"}}
 	    ]
 	}
 }

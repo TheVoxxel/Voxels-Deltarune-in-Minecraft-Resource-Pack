@@ -7,6 +7,8 @@
     "music.another_him": { "sounds": [ "deltarune:music/another_him" ] },
     "music.the_legend": { "sounds": [ "deltarune:music/the_legend" ] },
     "music.the_legend_slowed": { "sounds": [ "deltarune:music/the_legend_slowed" ] },
+     "music.lantern": { "sounds": [ "deltarune:music/lantern" ] },
+      "music.field_of_hopes": { "sounds": [ "deltarune:music/field_of_hopes" ] },
 
     "effects.wobbler": { "sounds": [ "deltarune:effects/wobbler" ] },
 
